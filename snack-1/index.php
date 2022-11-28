@@ -2,12 +2,13 @@
 
 /* ## Snack 1
 
-Creiamo un array contenente le partite di basket di un’ipotetica tappa del calendario. 
+Creiamo un array contenente le partite di basket di un’ipotetica tappa del calendario.
 Ogni array avrà una squadra di casa e una squadra ospite, punti fatti dalla squadra di casa e punti fatti dalla squadra ospite. Stampiamo a schermo tutte le partite con questo schema.
 
 Olimpia Milano - Cantù | 55-60 */
 
 $partite = [
-    "$squadraCasa" => "35",
-    "$squadraOspite" => "40"
-]
+    $partita1 = "Olimpia Milano - Cantù" => "35 - 20",
+    $partita2 ="Bari - Roma" => "40 - 23",
+    $partita3 ="Torino -Napoli" => "25 - 40"
+];
